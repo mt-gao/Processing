@@ -8,7 +8,6 @@ Serial port;
 int samples = 100;
 int b;
 int value = 0;
-PFont font;
 
 float circle = 200;
 float rot;
